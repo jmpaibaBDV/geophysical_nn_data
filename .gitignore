@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Ignore all CSV files in Data/Inputs directory
+/Data/Inputs/*.csv
+/Data/Inputs/*.xyz
